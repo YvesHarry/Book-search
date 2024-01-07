@@ -11,8 +11,7 @@ You can check the deployed application here.
 
 ## Screenshots
 
-![Screentshot 1](./client/public/screenshot1.png)
-![Screentshot 2](./client/public/screenshot2.png)
+
 
 ## Table of Contents
 
