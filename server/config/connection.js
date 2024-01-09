@@ -8,5 +8,6 @@ mongoose.connect(
   }
 );
 
+// mongodb+srv://yvesharry:<password>@cluster0.gvsstor.mongodb.net/
 
 module.exports = mongoose.connection;
