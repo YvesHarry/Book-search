@@ -11,7 +11,7 @@ You can check the deployed application here.
 
 ## Screenshots
 
-
+![](/client/public/App.gif)
 
 ## Table of Contents
 
@@ -31,6 +31,9 @@ N/A
 ## Usage
 
 Click on the card in the portfolio section to be taken to the deployed application. Also repository link provided below the card.
+
+## Walkthrough video
+[Please, Click here](https://drive.google.com/file/d/1are71o7z2jJ5czrfmprgD1SweSRrK5wB/view)
 
 ## Credits
 
